@@ -27,9 +27,9 @@ export default {
     line-height: 180px;
     border-radius: 80px;
     text-align: center;
-    .onDrop{
+    // .onDrop{
 
-    }
+    // }
 }
     
 </style>
